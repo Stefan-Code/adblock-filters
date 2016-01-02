@@ -1,0 +1,11 @@
+! Google
+||plus.google.com/u/0/_/streamwidgets/canvas
+
+! kindergeld.org
+/www.kindergeld.org\/image\/[0-9]{10}[a-z]\.[0-9]\/[A-Za-z0-9]+\.gif/$domain=www.kindergeld.org
+
+! Spiegel.de
+tarife.spiegel.de
+www.spiegel.de###promotion_ad_2
+www.spiegel.de###spColumnAd
+www.spiegel.de###superbanner
