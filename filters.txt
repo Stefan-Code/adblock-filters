@@ -10,6 +10,9 @@ www.spiegel.de###promotion_ad_2
 www.spiegel.de###spColumnAd
 www.spiegel.de###superbanner
 
+! amazon.de
+www.amazon.de###cbcc_banner_container
+
 !--------- Unbreak Section ---------
 !hs-heilbronn.de
 @@||splan.hs-heilbronn.de/splan/mobile/js/fingerprint.js$script,domain=splan.hs-heilbronn.de
