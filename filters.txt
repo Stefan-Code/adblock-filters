@@ -9,3 +9,7 @@ tarife.spiegel.de
 www.spiegel.de###promotion_ad_2
 www.spiegel.de###spColumnAd
 www.spiegel.de###superbanner
+
+!--------- Unbreak Section ---------
+!hs-heilbronn.de
+@@||splan.hs-heilbronn.de/splan/mobile/js/fingerprint.js$script,domain=splan.hs-heilbronn.de
