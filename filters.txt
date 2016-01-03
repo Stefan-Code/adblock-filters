@@ -13,6 +13,10 @@ www.spiegel.de###superbanner
 ! amazon.de
 www.amazon.de###cbcc_banner_container
 
+! physiksforums.com
+www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails > .errorMessage
+www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails
+
 !--------- Unbreak Section ---------
 !hs-heilbronn.de
 @@||splan.hs-heilbronn.de/splan/mobile/js/fingerprint.js$script,domain=splan.hs-heilbronn.de
