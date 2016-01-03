@@ -17,6 +17,9 @@ www.amazon.de###cbcc_banner_container
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails > .errorMessage
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails
 
+! cnx-software.com
+||www.cnx-software.com/pic/support_cnxsoft.png
+
 !--------- Unbreak Section ---------
 !hs-heilbronn.de
 @@||splan.hs-heilbronn.de/splan/mobile/js/fingerprint.js$script,domain=splan.hs-heilbronn.de
