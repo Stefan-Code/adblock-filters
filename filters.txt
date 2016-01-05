@@ -9,7 +9,12 @@
 
 ! Spiegel.de
 tarife.spiegel.de
+www.spiegel.de###promotion_ad_1
 www.spiegel.de###promotion_ad_2
+www.spiegel.de###promotion_ad_3
+www.spiegel.de###promotion_ad_4
+www.spiegel.de###promotion_ad_5
+www.spiegel.de###promotion_ad_6
 www.spiegel.de###spColumnAd
 www.spiegel.de###superbanner
 
