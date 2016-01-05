@@ -1,6 +1,9 @@
 ! Title: Stefan-Code custom adblock list
 ! Homepage: https://github.com/Stefan-Code/adblock-filters
 
+! facebook.com
+www.facebook.com###pagelet_canvas_nav_content
+
 ! Google
 ||plus.google.com/u/0/_/streamwidgets/canvas
 
