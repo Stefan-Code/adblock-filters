@@ -38,6 +38,9 @@ www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetail
 ||script.ioam.de/iam.js
 ||ioam.de^$third-party
 
+! adition.com
+||adition.com^$third-party,important
+
 !--------- Unbreak Section ---------
 !hs-heilbronn.de
 @@||splan.hs-heilbronn.de/splan/mobile/js/fingerprint.js$script,domain=splan.hs-heilbronn.de
