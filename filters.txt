@@ -36,8 +36,8 @@ www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetail
 ||www.cnx-software.com/pic/support_cnxsoft.png
 
 ! ioam.de - ad metrics
-||script.ioam.de/iam.js
-||ioam.de^$third-party
+||script.ioam.de/iam.js$third-party
+||ioam.de$third-party
 
 ! adition.com
 ||adition.com^$third-party,important
@@ -54,10 +54,10 @@ www.zeit.de###main > .nextread-advertisement
 ||connect.facebook.net/en_US/fbevents.js$script,domain=ebay-kleinanzeigen.de
 
 ! googletagservices.com (tag generation for ads)
-||www.googletagservices.com/tag/js/gpt.js$script
+||www.googletagservices.com/tag/js/gpt.js$third-party
 
 ! google plus social
-||apis.google.com/js/plusone.js$script
+||apis.google.com/js/plusone.js$third-party
 
 !--------- Unbreak Section ---------
 !hs-heilbronn.de
