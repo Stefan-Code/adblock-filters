@@ -13,6 +13,7 @@ www.facebook.com###pagelet_ego_pane .ego_section
 
 ! Spiegel.de
 ||tarife.spiegel.de
+||www.spiegel.de/layout/js/http/netmind-v6-21.js$domain=www.spiegel.de,important,script
 www.spiegel.de###promotion_ad_1
 www.spiegel.de###promotion_ad_2
 www.spiegel.de###promotion_ad_3
