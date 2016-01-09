@@ -42,6 +42,9 @@ www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetail
 ! adition.com
 ||adition.com^$third-party,important
 
+! veeseo.com
+||rce.veeseo.com$subdocument
+
 !--------- Unbreak Section ---------
 !hs-heilbronn.de
 @@||splan.hs-heilbronn.de/splan/mobile/js/fingerprint.js$script,domain=splan.hs-heilbronn.de
