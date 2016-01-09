@@ -49,6 +49,9 @@ www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetail
 ||rce.veeseo.com/widgets/zeit/widget.js$domain=www.zeit.de
 www.zeit.de###main > .nextread-advertisement
 
+! ebay-kleinanzeigen.de
+||connect.facebook.net/de_DE/all.js$script,domain=ebay-kleinanzeigen.de
+
 !--------- Unbreak Section ---------
 !hs-heilbronn.de
 @@||splan.hs-heilbronn.de/splan/mobile/js/fingerprint.js$script,domain=splan.hs-heilbronn.de
