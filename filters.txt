@@ -51,6 +51,7 @@ www.zeit.de###main > .nextread-advertisement
 
 ! ebay-kleinanzeigen.de
 ||connect.facebook.net/de_DE/all.js$script,domain=ebay-kleinanzeigen.de
+||connect.facebook.net/en_US/fbevents.js$script,domain=ebay-kleinanzeigen.de
 
 ! googletagservices.com (tag generation for ads)
 ||www.googletagservices.com/tag/js/gpt.js$script
