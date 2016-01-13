@@ -60,6 +60,9 @@ www.zeit.de###main > .nextread-advertisement
 ! google plus social
 ||apis.google.com/js/plusone.js$third-party
 
+! linuxcareer.com
+||how-to.linuxcareer.com/images/banners/linuxcareer-internal-ad.jpg$image
+
 !--------- Unbreak Section ---------
 !hs-heilbronn.de
 @@||splan.hs-heilbronn.de/splan/mobile/js/fingerprint.js$script,domain=splan.hs-heilbronn.de
