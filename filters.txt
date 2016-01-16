@@ -56,6 +56,9 @@ www.zeit.de###main > .nextread-advertisement
 ! linuxcareer.com
 ||how-to.linuxcareer.com/images/banners/linuxcareer-internal-ad.jpg$image
 
+! fanfiction.de
+||www.fanfiktion.de/pics/U$image,first-party
+
 !--------- Unbreak Section ---------
 !hs-heilbronn.de
 @@||splan.hs-heilbronn.de/splan/mobile/js/fingerprint.js$script,domain=splan.hs-heilbronn.de
