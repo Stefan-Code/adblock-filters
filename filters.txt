@@ -59,6 +59,9 @@ www.zeit.de###main > .nextread-advertisement
 ! fanfiction.de
 ||www.fanfiktion.de/pics/U$image,first-party
 
+! handelsblatt.com
+www.handelsblatt.com##.hcf-ad-wrapper
+
 !--------- Unbreak Section ---------
 !hs-heilbronn.de
 @@||splan.hs-heilbronn.de/splan/mobile/js/fingerprint.js$script,domain=splan.hs-heilbronn.de
