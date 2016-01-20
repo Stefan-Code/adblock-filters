@@ -1,5 +1,6 @@
 ! Title: Stefan-Code custom adblock list
 ! Homepage: https://github.com/Stefan-Code/adblock-filters
+! Expires: 12 hours
 
 ! facebook.com
 www.facebook.com###pagelet_canvas_nav_content
