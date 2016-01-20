@@ -62,6 +62,8 @@ www.zeit.de###main > .nextread-advertisement
 
 ! handelsblatt.com
 www.handelsblatt.com##.hcf-ad-wrapper
+www.handelsblatt.com##.vhb-share-social-media-button
+www.handelsblatt.com##.vhb-serviceoffer
 
 !--------- Unbreak Section ---------
 !hs-heilbronn.de
