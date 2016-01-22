@@ -20,6 +20,11 @@ www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetail
 ! cnx-software.com
 ||www.cnx-software.com/pic/support_cnxsoft.png
 
+! linuxundich.de
+||linuxundich.de/static/mittwald/top-virtual.full.png$image
+||linuxundich.de/static/danke_kein_adblock.png$image
+||linuxundich.de/static/mittwald/sidebar.full.png$image
+
 !--------- Unbreak Section ---------
 !hs-heilbronn.de
 @@||splan.hs-heilbronn.de/splan/mobile/js/fingerprint.js$script,domain=splan.hs-heilbronn.de
