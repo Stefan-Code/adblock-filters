@@ -70,6 +70,9 @@ www.handelsblatt.com##.hcf-ad-wrapper
 www.handelsblatt.com##.vhb-share-social-media-button
 www.handelsblatt.com##.vhb-serviceoffer
 
+! generic filters
+##a[href^="http://clickbank.net/"]
+
 !--------- Unbreak Section ---------
 !hs-heilbronn.de
 @@||splan.hs-heilbronn.de/splan/mobile/js/fingerprint.js$script,domain=splan.hs-heilbronn.de
