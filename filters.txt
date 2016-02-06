@@ -78,6 +78,9 @@ www.ingenieurkurse.de###advertising > .adv_box_top
 www.ingenieurkurse.de###advertising
 www.ingenieurkurse.de###head_price_container
 
+! golem.de
+||www.golem.de/microsite/abo/minibanner*.html
+
 ! generic filters
 ##a[href^="http://clickbank.net/"]
 
