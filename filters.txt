@@ -70,6 +70,7 @@ www.zeit.de###main > .nextread-advertisement
 www.handelsblatt.com##.hcf-ad-wrapper
 www.handelsblatt.com##.vhb-share-social-media-button
 www.handelsblatt.com##.vhb-serviceoffer
+www.handelsblatt.com##a[href^="https://angebot.handelsblatt.com/abonnements/"]
 
 ! ingenieurkurse.de
 www.ingenieurkurse.de###in-text-advertising
