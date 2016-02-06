@@ -6,6 +6,7 @@
 www.facebook.com###pagelet_canvas_nav_content
 www.facebook.com###pagelet_ego_pane .ego_section
 www.facebook.com###photos_snowlift .wrapper > .inner > .ego_section
+www.facebook.com###pageInviteEscapeHatch
 
 ! Google
 ||plus.google.com/u/0/_/streamwidgets/canvas
