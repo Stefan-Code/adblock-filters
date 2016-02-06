@@ -70,6 +70,13 @@ www.handelsblatt.com##.hcf-ad-wrapper
 www.handelsblatt.com##.vhb-share-social-media-button
 www.handelsblatt.com##.vhb-serviceoffer
 
+! ingenieurkurse.de
+www.ingenieurkurse.de###in-text-advertising
+www.ingenieurkurse.de###stopper
+www.ingenieurkurse.de###advertising > .adv_box_top
+www.ingenieurkurse.de###advertising
+www.ingenieurkurse.de###head_price_container
+
 ! generic filters
 ##a[href^="http://clickbank.net/"]
 
