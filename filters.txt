@@ -94,6 +94,9 @@ metro.co.uk##.share-buttons
 metro.co.uk##.item-share.item-share-buttons
 metro.co.uk##.share-buttons-top.share-buttons
 
+! dmax.de
+www.dmax.de##.fb-comments
+
 ! generic filters
 ##a[href^="http://clickbank.net/"]
 
