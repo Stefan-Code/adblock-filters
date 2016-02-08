@@ -86,6 +86,14 @@ www.ingenieurkurse.de###head_price_container
 www.focus.de##a[href="http://tagesgeld.focus.de/guenstige-tagesgeldkonten/vergleich"]
 www.focus.de###servicev2 > .container_12 > .key-visual
 
+! metro.co.uk
+metro.co.uk###we-need-monies > .house-promo
+metro.co.uk###we-need-monies
+metro.co.uk###floaty-share-buttons
+metro.co.uk##.share-buttons
+metro.co.uk##.item-share.item-share-buttons
+metro.co.uk##.share-buttons-top.share-buttons
+
 ! generic filters
 ##a[href^="http://clickbank.net/"]
 
