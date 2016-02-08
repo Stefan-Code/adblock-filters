@@ -103,6 +103,9 @@ www.desmoinesregister.com##.fixed.header > .android-smart-banner.smart-banner
 ! onmeda.de
 www.onmeda.de##.panel-overlay
 
+! expressandstar.com
+www.expressandstar.com###smartbanner
+
 ! generic filters
 ##a[href^="http://clickbank.net/"]
 
