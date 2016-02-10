@@ -111,6 +111,10 @@ www.expressandstar.com###smartbanner
 www.finanzen.net###footerTop
 www.finanzen.net###showpopup2
 
+! gabler.de
+wirtschaftslexikon.gabler.de###overlay
+wirtschaftslexikon.gabler.de##.thelightbox
+
 ! generic filters
 ##a[href^="http://clickbank.net/"]
 
