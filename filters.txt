@@ -115,6 +115,9 @@ www.finanzen.net###showpopup2
 wirtschaftslexikon.gabler.de###overlay
 wirtschaftslexikon.gabler.de##.thelightbox
 
+! tutsplus.com
+code.tutsplus.com##.global-nav__header-item--free-account-button
+
 ! generic filters
 ##a[href^="http://clickbank.net/"]
 
