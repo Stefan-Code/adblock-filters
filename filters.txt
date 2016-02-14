@@ -118,6 +118,10 @@ wirtschaftslexikon.gabler.de##.thelightbox
 ! tutsplus.com
 code.tutsplus.com##.global-nav__header-item--free-account-button
 
+! netgear.com
+! annoying survey overlay
+community.netgear.com##.alert-overlay
+
 ! generic filters
 ##a[href^="http://clickbank.net/"]
 
