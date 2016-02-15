@@ -122,6 +122,12 @@ code.tutsplus.com##.global-nav__header-item--free-account-button
 ! annoying survey overlay
 community.netgear.com##.alert-overlay
 
+! sat-dreambox.com
+||www.sat-dreambox.com/images/myimg/ads^
+||sat-dreambox.com/images/myimg/ads^
+||sat-dreambox.com/images/myimg/tvchannels.gif
+sat-dreambox.com###ad_global_below_navbar
+
 ! generic filters
 ##a[href^="http://clickbank.net/"]
 
