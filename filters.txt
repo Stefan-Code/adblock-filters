@@ -128,6 +128,9 @@ community.netgear.com##.alert-overlay
 ||sat-dreambox.com/images/myimg/tvchannels.gif
 sat-dreambox.com###ad_global_below_navbar
 
+! ebay.de
+www.ebay.de###billboardFragment > .connected-placements
+
 ! generic filters
 ##a[href^="http://clickbank.net/"]
 
