@@ -30,6 +30,7 @@ www.spiegel.de###superbanner
 
 ! amazon.de
 www.amazon.de###cbcc_banner_container
+www.amazon.de###nav-belt > .nav-right
 
 ! physiksforums.com
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails > .errorMessage
