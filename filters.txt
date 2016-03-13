@@ -139,6 +139,9 @@ www.idealo.de##.cookieBanner
 www.idealo.de###logo-cobi
 www.idealo.de###tuev-certificate
 
+! 1-2-do.com
+www.1-2-do.com###cookieRequestLayer
+
 ! generic filters
 ##a[href^="http://clickbank.net/"]
 
