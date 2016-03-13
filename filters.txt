@@ -136,6 +136,8 @@ www.ebay.de###billboardFragment > .connected-placements
 
 ! idealo.de
 www.idealo.de##.cookieBanner
+www.idealo.de###logo-cobi
+www.idealo.de###tuev-certificate
 
 ! generic filters
 ##a[href^="http://clickbank.net/"]
