@@ -27,6 +27,8 @@ www.spiegel.de###promotion_ad_6
 www.spiegel.de###billboard_1
 www.spiegel.de###spColumnAd
 www.spiegel.de###superbanner
+www.spiegel.de##.social-bar-wrapper
+www.spiegel.de###spPartnerBar
 
 ! amazon.de
 www.amazon.de###cbcc_banner_container
