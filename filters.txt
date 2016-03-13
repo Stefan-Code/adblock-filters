@@ -134,6 +134,9 @@ sat-dreambox.com###ad_global_below_navbar
 ! ebay.de
 www.ebay.de###billboardFragment > .connected-placements
 
+! idealo.de
+www.idealo.de##.cookieBanner
+
 ! generic filters
 ##a[href^="http://clickbank.net/"]
 
