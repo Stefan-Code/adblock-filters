@@ -149,6 +149,7 @@ www.voelkner.de###mainC .icon_spacenet
 
 ! generic filters
 ##a[href^="http://clickbank.net/"]
+##.adv
 
 !--------- Unbreak Section ---------
 !hs-heilbronn.de
