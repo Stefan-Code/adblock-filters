@@ -142,6 +142,11 @@ www.idealo.de###tuev-certificate
 ! 1-2-do.com
 www.1-2-do.com###cookieRequestLayer
 
+! voelkner.de
+www.voelkner.de##.search_teaser_asn
+www.voelkner.de###mainC .partner_icons
+www.voelkner.de###mainC .icon_spacenet
+
 ! generic filters
 ##a[href^="http://clickbank.net/"]
 
