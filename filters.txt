@@ -151,6 +151,9 @@ www.voelkner.de###mainC .icon_spacenet
 ! alternate.de
 www.alternate.de###specialArea .skyTeaser
 
+! inc.com
+www.inc.com###globalNav
+
 ! generic filters
 ##a[href^="http://clickbank.net/"]
 ##.adv
