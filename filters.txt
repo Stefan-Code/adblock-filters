@@ -148,6 +148,9 @@ www.voelkner.de##.search_teaser_asn
 www.voelkner.de###mainC .partner_icons
 www.voelkner.de###mainC .icon_spacenet
 
+! alternate.de
+www.alternate.de###specialArea .skyTeaser
+
 ! generic filters
 ##a[href^="http://clickbank.net/"]
 ##.adv
