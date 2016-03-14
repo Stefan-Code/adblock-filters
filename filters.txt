@@ -167,6 +167,9 @@ wired.com###mobile-share
 wired.com###logo-bar
 wired.com###nav-search
 
+! aliexpress.com
+m.aliexpress.com###ms-guidance-wrap
+
 ! generic filters
 ##a[href^="http://clickbank.net/"]
 ##.adv
