@@ -33,6 +33,8 @@ www.spiegel.de###spPartnerBar
 ! amazon.de
 www.amazon.de###cbcc_banner_container
 www.amazon.de###nav-belt > .nav-right
+www.amazon.de###sponsored-products
+www.amazon.de###sponsoredProducts_feature_div
 
 ! physiksforums.com
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails > .errorMessage
