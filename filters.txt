@@ -160,6 +160,11 @@ medium.com##.promo
 ! voelkner.de
 voelkner.de##.skiptranslate
 
+! wired.com
+wired.com###mobile-share
+wired.com###logo-bar
+wired.com###nav-search
+
 ! generic filters
 ##a[href^="http://clickbank.net/"]
 ##.adv
