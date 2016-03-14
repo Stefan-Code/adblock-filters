@@ -157,6 +157,9 @@ www.inc.com###globalNav
 ! medium.com
 medium.com##.promo
 
+! voelkner.de
+voelkner.de##.skiptranslate
+
 ! generic filters
 ##a[href^="http://clickbank.net/"]
 ##.adv
