@@ -154,6 +154,9 @@ www.alternate.de###specialArea .skyTeaser
 ! inc.com
 www.inc.com###globalNav
 
+! medium.com
+medium.com##.promo
+
 ! generic filters
 ##a[href^="http://clickbank.net/"]
 ##.adv
