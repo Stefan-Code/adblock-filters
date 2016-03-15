@@ -172,6 +172,12 @@ wired.com###nav-search
 ! aliexpress.com
 m.aliexpress.com###ms-guidance-wrap
 
+! straitstimes.com
+||www.straitstimes.com/sites/default/files/subscription*
+www.straitstimes.com## .footer-apps-block
+www.straitstimes.com## .footer-subscribe-block
+www.straitstimes.com##.field-name-social-media-buttons-bottom
+
 ! generic filters
 ##a[href^="http://clickbank.net/"]
 ##.adv
