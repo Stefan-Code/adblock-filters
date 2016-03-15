@@ -13,6 +13,7 @@ www.facebook.com###pageInviteEscapeHatch
 
 ! kindergeld.org
 /www.kindergeld.org\/image\/[0-9]{10}[a-z]\.[0-9]\/[A-Za-z0-9]+\.gif/$domain=www.kindergeld.org
+www.kindergeld.org###wpzoom-text-widget-4
 
 ! Spiegel.de
 ||tarife.spiegel.de
