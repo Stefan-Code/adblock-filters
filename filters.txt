@@ -138,6 +138,7 @@ sat-dreambox.com###ad_global_below_navbar
 www.ebay.de###billboardFragment > .connected-placements
 m.ebay.de###mw-app-bnr
 www.ebay.de###fixedDailyDeals
+www.ebay.de###gh-doodleS
 
 ! idealo.de
 www.idealo.de##.cookieBanner
