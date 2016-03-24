@@ -179,6 +179,9 @@ www.straitstimes.com## .footer-apps-block
 www.straitstimes.com## .footer-subscribe-block
 www.straitstimes.com##.field-name-social-media-buttons-bottom
 
+! commitstrip.com
+||www.commitstrip.com/hello.php
+
 ! generic filters
 ##a[href^="http://clickbank.net/"]
 ##.adv
