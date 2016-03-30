@@ -184,6 +184,9 @@ www.straitstimes.com##.field-name-social-media-buttons-bottom
 ! commitstrip.com
 ||www.commitstrip.com/hello.php
 
+! techonthenet.com
+www.techonthenet.com##.adsblocked
+
 ! generic filters
 ##a[href^="http://clickbank.net/"]
 ##.adv
