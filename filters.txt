@@ -190,6 +190,7 @@ www.straitstimes.com##.field-name-social-media-buttons-bottom
 www.techonthenet.com##.adsblocked
 
 ! generic filters
+||/advertisement.js
 ##a[href^="http://clickbank.net/"]
 ##.adv
 ##.smartbanner
