@@ -201,4 +201,5 @@ www.techonthenet.com##.adsblocked
 
 !----- Be fair, allow Piwik tracking ------
 @@/piwik.php
+@@/piwik.js
 
