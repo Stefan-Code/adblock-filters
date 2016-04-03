@@ -189,6 +189,9 @@ www.straitstimes.com##.field-name-social-media-buttons-bottom
 ! techonthenet.com
 www.techonthenet.com##.adsblocked
 
+! unoblotoo.net
+||unoblotto.net$image,subdocument
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
