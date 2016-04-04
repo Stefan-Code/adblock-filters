@@ -192,6 +192,9 @@ www.techonthenet.com##.adsblocked
 ! unoblotoo.net
 ||unoblotto.net$image,subdocument
 
+! frustfrei-lernen.de
+www.frustfrei-lernen.de##.contentWrapper > .page > .noContentBannerAd
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
