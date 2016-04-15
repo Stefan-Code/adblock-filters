@@ -195,6 +195,9 @@ www.techonthenet.com##.adsblocked
 ! frustfrei-lernen.de
 www.frustfrei-lernen.de##.contentWrapper > .page > .noContentBannerAd
 
+! techsupportforum.com
+www.techsupportforum.com###ukCookiePopup
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
