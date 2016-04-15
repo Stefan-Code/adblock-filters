@@ -40,6 +40,7 @@ www.amazon.de##.iss-banner-ad
 www.amazon.de##.prime-ad-banner-content
 www.amazon.de##img[alt="Gratis Amazon App jetzt herunterladen"]
 www.amazon.de###marketing
+www.amazon.de##.nav-prime-try
 
 ! physiksforums.com
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails > .errorMessage
