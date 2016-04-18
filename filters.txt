@@ -199,6 +199,17 @@ www.frustfrei-lernen.de##.contentWrapper > .page > .noContentBannerAd
 ! techsupportforum.com
 www.techsupportforum.com###ukCookiePopup
 
+! iyogi.com
+supportforasus.iyogi.com##.aside-add
+supportforasus.iyogi.com##.overflow_hidden > .wrapper > .page-one > .inner-wrapper > .post.content-detail.content-wrap > .aside-right > aside
+supportforasus.iyogi.com##.right-chat-slide
+supportforasus.iyogi.com###us-banner
+supportforasus.iyogi.com##.our-plan
+supportforasus.iyogi.com###overlay
+supportforasus.iyogi.com###pop-form
+supportforasus.iyogi.com###\31
+supportforasus.iyogi.com##.tagline
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
