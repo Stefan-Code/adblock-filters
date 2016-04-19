@@ -210,6 +210,12 @@ supportforasus.iyogi.com###pop-form
 supportforasus.iyogi.com###\31
 supportforasus.iyogi.com##.tagline
 
+! spektrum.de 
+www.spektrum.de###artikellayer > .clearfix.artikellayer-content > form
+www.spektrum.de###artikellayer > .artikellayer-header.heading
+www.spektrum.de###newsdesk
+www.spektrum.de###sidebar
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
