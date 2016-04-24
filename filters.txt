@@ -233,6 +233,9 @@ www.indiegogo.com##.i-android-header
 ! motor-talk.de
 www.motor-talk.de##.MobileDeOfferHint
 
+! leanpub.com
+leanpub.com###js-quick-buy
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
