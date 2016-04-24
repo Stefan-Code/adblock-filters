@@ -230,6 +230,9 @@ rechnungswesen-verstehen.de##.sharing
 ! indiegogo.com
 www.indiegogo.com##.i-android-header
 
+! motor-talk.de
+www.motor-talk.de##.MobileDeOfferHint
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
