@@ -216,6 +216,10 @@ www.spektrum.de###artikellayer > .artikellayer-header.heading
 www.spektrum.de###newsdesk
 www.spektrum.de###sidebar
 
+! chefkoch.de
+##img[alt="AdBlocker ist aktiv"]
+||www.chefkoch.de/img/default/anti-adblock-banners$image
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
