@@ -232,6 +232,7 @@ www.indiegogo.com##.i-android-header
 ##a[href^="http://clickbank.net/"]
 ##.adv
 ##.smartbanner
+##.app-banner
 
 !--------- Unbreak Section ---------
 !hs-heilbronn.de
