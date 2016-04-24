@@ -220,6 +220,10 @@ www.spektrum.de###sidebar
 ##img[alt="AdBlocker ist aktiv"]
 ||www.chefkoch.de/img/default/anti-adblock-banners$image
 
+! rechnungswesen-verstehen.de
+rechnungswesen-verstehen.de###hellobar
+rechnungswesen-verstehen.de##.sharing
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
