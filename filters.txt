@@ -236,6 +236,9 @@ www.motor-talk.de##.MobileDeOfferHint
 ! leanpub.com
 leanpub.com###js-quick-buy
 
+! twitter.com
+mobile.twitter.com##.OpenInAppBar
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
