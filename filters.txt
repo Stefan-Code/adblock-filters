@@ -224,6 +224,9 @@ www.spektrum.de###sidebar
 rechnungswesen-verstehen.de###hellobar
 rechnungswesen-verstehen.de##.sharing
 
+! indiegogo.com
+www.indiegogo.com##.i-android-header
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
