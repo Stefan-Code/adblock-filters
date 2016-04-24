@@ -239,6 +239,9 @@ leanpub.com###js-quick-buy
 ! twitter.com
 mobile.twitter.com##.OpenInAppBar
 
+! nytimes.com
+mobile.nytimes.com###growl
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
