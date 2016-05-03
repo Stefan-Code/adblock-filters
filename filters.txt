@@ -33,6 +33,7 @@ www.spiegel.de##.social-bar-wrapper
 www.spiegel.de###spPartnerBar
 
 ! amazon.de
+||images-eu.ssl-images-amazon.com/images/*/Promos/
 www.amazon.de###cbcc_banner_container
 www.amazon.de###nav-belt > .nav-right
 www.amazon.de###sponsored-products
@@ -45,6 +46,7 @@ www.amazon.de##.nav-prime-try
 www.amazon.de###tellAFriendBox_feature_div
 www.amazon.de##.campaign
 www.amazon.de##.a-touch-link[href="/gp/mobile/appstore-redirect/ref=ya_st_app_dl_link"]
+www.amazon.de## .scheduled-ad
 
 ! physiksforums.com
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails > .errorMessage
