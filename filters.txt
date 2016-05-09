@@ -254,6 +254,7 @@ mobile.nytimes.com###growl
 ###smartbanner
 ##.app-banner
 ###app-banner
+###cookieNote
 !--------- Unbreak Section ---------
 !hs-heilbronn.de
 @@||splan.hs-heilbronn.de/splan/mobile/js/fingerprint.js$script,domain=splan.hs-heilbronn.de
