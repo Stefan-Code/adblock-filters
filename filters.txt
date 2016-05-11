@@ -138,6 +138,8 @@ code.tutsplus.com##.global-nav__header-item--free-account-button
 ! netgear.com
 ! annoying survey overlay
 community.netgear.com##.alert-overlay
+! privacy invading device ping on switches
+||my.netgear.com/Registration/deviceping.aspx
 
 ! sat-dreambox.com
 ||www.sat-dreambox.com/images/myimg/ads^
