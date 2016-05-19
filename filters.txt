@@ -248,6 +248,9 @@ mobile.twitter.com##.OpenInAppBar
 ! nytimes.com
 mobile.nytimes.com###growl
 
+! sueddeutsche.de
+##.article-sharing-bottom
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
