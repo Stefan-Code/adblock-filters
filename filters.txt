@@ -251,6 +251,10 @@ mobile.nytimes.com###growl
 ! sueddeutsche.de
 ##.article-sharing-bottom
 
+! neues-deutschland.de
+||neues-deutschland.de/images/bg-paywall.png$image
+neues-deutschland.de###AppAdWrapper .Paywall
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
