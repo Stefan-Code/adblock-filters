@@ -33,7 +33,8 @@ www.spiegel.de##.social-bar-wrapper
 www.spiegel.de###spPartnerBar
 
 ! amazon.de
-||images-eu.ssl-images-amazon.com/images/*/Promos/
+||images-eu.ssl-images-amazon.com/images/*/Promos/$image
+||images-eu.ssl-images-amazon.com/images/G/03/DE_Deals/$image
 www.amazon.de###cbcc_banner_container
 www.amazon.de###nav-belt > .nav-right
 www.amazon.de###sponsored-products
