@@ -260,6 +260,9 @@ www.neues-deutschland.de###AppAdWrapper > .Wrapper > .Container > .Specials
 ! forum-raspberrypi.de
 ||www.forum-raspberrypi.de/images/shop.jpg$image
 
+! varkus.com
+||varkus.com$document
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
