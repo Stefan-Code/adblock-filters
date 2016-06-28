@@ -267,6 +267,9 @@ www.neues-deutschland.de###AppAdWrapper > .Wrapper > .Container > .Specials
 ! varkus.com
 ||varkus.com$document
 
+! microsoft.com
+msdn.microsoft.com###standardRating
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
