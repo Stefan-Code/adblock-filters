@@ -257,6 +257,7 @@ mobile.nytimes.com###growl
 
 ! sueddeutsche.de
 ##.article-sharing-bottom
+||polpix.sueddeutsche.de/$image
 
 ! neues-deutschland.de
 ||neues-deutschland.de/images/bg-paywall.png$image
