@@ -170,6 +170,8 @@ www.voelkner.de##.search_teaser_asn
 www.voelkner.de###mainC .partner_icons
 www.voelkner.de###mainC .icon_spacenet
 www.voelkner.de###adv-bar
+www.voelkner.de###gutscheinconnection-container
+www.voelkner.de###sovendusAbo-container
 
 ! alternate.de
 www.alternate.de###specialArea .skyTeaser
