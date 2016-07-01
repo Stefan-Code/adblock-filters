@@ -270,6 +270,9 @@ www.neues-deutschland.de###AppAdWrapper > .Wrapper > .Container > .Specials
 ! microsoft.com
 msdn.microsoft.com###standardRating
 
+! brilliant.org
+brilliant.org###wrapper > .visible.like-us-modal
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
