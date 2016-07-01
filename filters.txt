@@ -275,6 +275,11 @@ msdn.microsoft.com###standardRating
 ! brilliant.org
 brilliant.org###wrapper > .visible.like-us-modal
 
+! nickles.de
+www.nickles.de###adseen
+www.nickles.de##.ui-widget-overlay
+www.nickles.de###sidepanel
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
