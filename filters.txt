@@ -286,6 +286,9 @@ www.nickles.de###sidepanel
 www.vladan.fr##.widget-area.sidebar-primary.sidebar
 ||www.vladan.fr/wp-content/uploads/images/vladan-vhm-trash-background3.jpg$image
 
+! denic.de
+www.denic.de##.notification--acknowledge
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
