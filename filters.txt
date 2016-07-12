@@ -289,6 +289,9 @@ www.vladan.fr##.widget-area.sidebar-primary.sidebar
 ! denic.de
 www.denic.de##.notification--acknowledge
 
+! pfsense.org
+||forum.pfsense.org/pfsense_gold_subscription.png$image
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
