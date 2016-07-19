@@ -306,6 +306,9 @@ www.welt.de###rrt-livestream-teaser
 ! tutorialspoint.com
 www.tutorialspoint.com##.simple-ad
 
+! oreilly.com
+||www.oreilly.com/partner_file/$image
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
