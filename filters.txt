@@ -299,6 +299,9 @@ www.wuestenrotdirect.de##.WW_MOD_EM_10-0-cookiemodul
 www.sitepoint.com###ebookbundle-modal
 www.sitepoint.com##.reveal-modal-bg
 
+! welt.de
+www.welt.de###stickyBtnHome_link
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
