@@ -313,6 +313,7 @@ www.welt.de###rrt-livestream-teaser
 ###app-banner
 ###cookieNote
 ##a[href^="whatsapp://send"]
+##.privacyBadgerReplacementButton
 
 !--------- Unbreak Section ---------
 !hs-heilbronn.de
