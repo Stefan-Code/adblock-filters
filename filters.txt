@@ -295,6 +295,10 @@ www.denic.de##.notification--acknowledge
 ! wuestenrotdirect.de
 www.wuestenrotdirect.de##.WW_MOD_EM_10-0-cookiemodul
 
+! sitepoint.com
+www.sitepoint.com###ebookbundle-modal
+www.sitepoint.com##.reveal-modal-bg
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
