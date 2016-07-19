@@ -303,6 +303,9 @@ www.sitepoint.com##.reveal-modal-bg
 www.welt.de###stickyBtnHome_link
 www.welt.de###rrt-livestream-teaser
 
+! tutorialspoint.com
+www.tutorialspoint.com##.simple-ad
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
