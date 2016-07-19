@@ -301,6 +301,7 @@ www.sitepoint.com##.reveal-modal-bg
 
 ! welt.de
 www.welt.de###stickyBtnHome_link
+www.welt.de###rrt-livestream-teaser
 
 ! generic filters
 ||/advertisement.js
