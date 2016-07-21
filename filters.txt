@@ -291,6 +291,7 @@ www.denic.de##.notification--acknowledge
 
 ! pfsense.org
 ||forum.pfsense.org/pfsense_gold_subscription.png$image
+||forum.pfsense.org/pfsense-*-ad.jpg$image
 
 ! wuestenrotdirect.de
 www.wuestenrotdirect.de##.WW_MOD_EM_10-0-cookiemodul
