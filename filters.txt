@@ -310,6 +310,9 @@ www.tutorialspoint.com##.simple-ad
 ! oreilly.com
 ||www.oreilly.com/partner_file/$image
 
+! quora.com
+www.quora.com##.PromptsList
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
