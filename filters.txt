@@ -313,6 +313,9 @@ www.tutorialspoint.com##.simple-ad
 ! quora.com
 www.quora.com##.PromptsList
 
+! sculpteo.com
+www.sculpteo.com###triggerMarketingFrameWrapperID
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
