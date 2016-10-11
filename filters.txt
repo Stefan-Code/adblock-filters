@@ -320,6 +320,8 @@ www.sculpteo.com###triggerMarketingFrameWrapperID
 ! libgen.io
 libgen.io###message
 
+! bendingmomentdiagram.com
+bendingmomentdiagram.com##.smlad
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
