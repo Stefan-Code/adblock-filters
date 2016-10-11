@@ -330,6 +330,9 @@ bendingmomentdiagram.com##.smlad
 ! mz-web.de
 www.mz-web.de###idleOverlay
 
+! fronius.com
+www.fronius.com###cookieAnzeige
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
