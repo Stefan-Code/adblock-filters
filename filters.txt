@@ -320,6 +320,10 @@ www.sculpteo.com###triggerMarketingFrameWrapperID
 ! libgen.io
 libgen.io###message
 
+! schnatterente.net
+schnatterente.net##.ads
+||www.schnatterente.net/img/adblocked.png$image
+
 ! bendingmomentdiagram.com
 bendingmomentdiagram.com##.smlad
 ! generic filters
