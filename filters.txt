@@ -52,6 +52,7 @@ www.amazon.de###hero-quick-promo
 www.amazon.de###desktop-auto-sparkle-single
 www.amazon.de###hows-my-search
 www.amazon.de###nav-upnav
+www.amazon.de###detail-ilm_div
 
 ! physiksforums.com
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails > .errorMessage
