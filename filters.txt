@@ -317,6 +317,9 @@ www.quora.com##.PromptsList
 ! sculpteo.com
 www.sculpteo.com###triggerMarketingFrameWrapperID
 
+! libgen.io
+libgen.io###message
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
