@@ -326,6 +326,10 @@ schnatterente.net##.ads
 
 ! bendingmomentdiagram.com
 bendingmomentdiagram.com##.smlad
+
+! mz-web.de
+www.mz-web.de###idleOverlay
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
