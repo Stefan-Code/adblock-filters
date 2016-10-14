@@ -370,6 +370,10 @@ tumblr.com##.tmblr-iframe
 ! vox.com
 www.vox.com###chorus-social-fixed
 
+! stern.de
+www.stern.de###mobile-banner
+www.stern.de###mobile-banner-placeholder
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
