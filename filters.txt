@@ -164,9 +164,10 @@ ebay.de###fixedDailyDeals
 ebay.de###gh-doodleS
 
 ! idealo.de
-www.idealo.de##.cookieBanner
-www.idealo.de###logo-cobi
-www.idealo.de###tuev-certificate
+idealo.de##.cookieBanner
+idealo.de###logo-cobi
+idealo.de###tuev-certificate
+idealo.de##.app-banner
 
 ! 1-2-do.com
 www.1-2-do.com###cookieRequestLayer
