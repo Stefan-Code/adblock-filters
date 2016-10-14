@@ -377,6 +377,9 @@ www.stern.de###mobile-banner-placeholder
 ! dhl.de
 nolp.dhl.de##.nolp-smartbanner-android
 
+! dailymail.co.uk
+||i.mol.im/i/mobileimages/b-play.png$image
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
