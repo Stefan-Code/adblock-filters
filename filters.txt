@@ -53,6 +53,10 @@ www.amazon.de###desktop-auto-sparkle-single
 www.amazon.de###hows-my-search
 www.amazon.de###nav-upnav
 www.amazon.de###detail-ilm_div
+www.amazon.de###ape_thankyou_atf_thankyou-mWeb_iframe
+www.amazon.de###smart-app-banner
+www.amazon.de###ape_detail_btf_detail-mWeb_iframe
+www.amazon.de###ape_detail_btf_detail-mWeb_placement
 
 ! physiksforums.com
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails > .errorMessage
