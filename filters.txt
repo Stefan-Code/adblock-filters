@@ -353,6 +353,9 @@ schlafsackberatung.de##.crs-system-cookie-consent-open
 ! atlasobscura.com
 atlasobscura.com###email-roadblock-topographic-modal
 
+! hausjournal.de
+www.hausjournal.net## .bannerklein
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
