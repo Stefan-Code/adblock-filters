@@ -343,6 +343,10 @@ www.mz-web.de###idleOverlay
 ! fronius.com
 www.fronius.com###cookieAnzeige
 
+! deeperblue.com
+www.deeperblue.com###tt_mobile_banner
+www.deeperblue.com###banner_div_empty
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
