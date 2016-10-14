@@ -350,6 +350,9 @@ www.deeperblue.com###banner_div_empty
 ! schlafsackberatung.de
 schlafsackberatung.de##.crs-system-cookie-consent-open
 
+! atlasobscura.com
+atlasobscura.com###email-roadblock-topographic-modal
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
