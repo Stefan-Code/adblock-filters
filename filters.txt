@@ -367,6 +367,9 @@ de.serlo.org###sms-disclaimer
 tumblr.com##.iframe-controls--phone-mobile
 tumblr.com##.tmblr-iframe
 
+! vox.com
+www.vox.com###chorus-social-fixed
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
