@@ -197,6 +197,10 @@ wired.com###mobile-share
 wired.com###logo-bar
 wired.com###nav-search
 wired.com###around-the-web
+wired.com###nav-sections
+wired.com###global-nav
+wired.com###global-header
+wired.com###around-the-web
 
 ! aliexpress.com
 m.aliexpress.com###ms-guidance-wrap
