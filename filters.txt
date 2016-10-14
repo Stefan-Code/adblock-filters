@@ -356,6 +356,9 @@ atlasobscura.com###email-roadblock-topographic-modal
 ! hausjournal.de
 www.hausjournal.net## .bannerklein
 
+! taz.de
+www.taz.de###tzi-PayWahl
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
