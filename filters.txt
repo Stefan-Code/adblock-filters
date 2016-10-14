@@ -359,6 +359,10 @@ www.hausjournal.net## .bannerklein
 ! taz.de
 www.taz.de###tzi-PayWahl
 
+! serlo.org
+de.serlo.org###sms-banner
+de.serlo.org###sms-disclaimer
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
