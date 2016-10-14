@@ -363,6 +363,10 @@ www.taz.de###tzi-PayWahl
 de.serlo.org###sms-banner
 de.serlo.org###sms-disclaimer
 
+! tumblr.com
+tumblr.com##.iframe-controls--phone-mobile
+tumblr.com##.tmblr-iframe
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
