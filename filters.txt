@@ -392,6 +392,9 @@ ebay-kleinanzeigen.de###home-gallery
 linux.com###modalContent
 linux.com###modalBackdrop
 
+! iplocation.net
+||www.iplocation.net/assets/images/banners/$image
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
