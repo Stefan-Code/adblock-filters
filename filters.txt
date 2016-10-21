@@ -380,6 +380,9 @@ nolp.dhl.de##.nolp-smartbanner-android
 ! dailymail.co.uk
 ||i.mol.im/i/mobileimages/b-play.png$image
 
+! hager.de
+hager.de##.cookie-hint-container
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
