@@ -383,6 +383,9 @@ nolp.dhl.de##.nolp-smartbanner-android
 ! hager.de
 hager.de##.cookie-hint-container
 
+! ebay-kleinanzeigen.de
+ebay-kleinanzeigen.de###home-gallery
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
