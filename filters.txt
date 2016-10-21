@@ -179,6 +179,8 @@ www.voelkner.de###mainC .icon_spacenet
 www.voelkner.de###adv-bar
 www.voelkner.de###gutscheinconnection-container
 www.voelkner.de###sovendusAbo-container
+www.voelkner.de###overlay_teaser
+||ssl.re-in.de/nl/overlay/Overlay_ve.png
 
 ! alternate.de
 www.alternate.de###specialArea .skyTeaser
