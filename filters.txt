@@ -395,6 +395,9 @@ linux.com###modalBackdrop
 ! iplocation.net
 ||www.iplocation.net/assets/images/banners/$image
 
+! bauexpertenforum.de
+bauexpertenforum.de##.anzeige
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
