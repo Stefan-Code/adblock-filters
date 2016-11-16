@@ -57,6 +57,7 @@ www.amazon.de###ape_thankyou_atf_thankyou-mWeb_iframe
 www.amazon.de###smart-app-banner
 www.amazon.de###ape_detail_btf_detail-mWeb_iframe
 www.amazon.de###ape_detail_btf_detail-mWeb_placement
+www.amazon.de###centerPlus
 
 ! physiksforums.com
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails > .errorMessage
