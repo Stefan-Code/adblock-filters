@@ -406,6 +406,11 @@ elektrofachkraft.de###floor-wrapper
 www.cnet.com##.videoPromo
 www.cnet.com##.popOut
 
+! wolframalpha.com
+www.wolframalpha.com###sponsor-ad
+www.wolframalpha.com###take-anywhere
+www.wolframalpha.com###premium-support-wrapper
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
