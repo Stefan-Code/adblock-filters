@@ -399,6 +399,9 @@ linux.com###modalBackdrop
 ! bauexpertenforum.de
 bauexpertenforum.de##.anzeige
 
+! elektrofachkraft.de
+elektrofachkraft.de###floor-wrapper
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
