@@ -411,6 +411,9 @@ www.wolframalpha.com###sponsor-ad
 www.wolframalpha.com###take-anywhere
 www.wolframalpha.com###premium-support-wrapper
 
+! kuku-kube.com
+kuku-kube.com##footer
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
