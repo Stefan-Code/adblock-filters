@@ -271,6 +271,8 @@ mobile.nytimes.com###growl
 
 ! sueddeutsche.de
 ##.article-sharing-bottom
+@@||sueddeutsche.de^$generichide
+
 ||polpix.sueddeutsche.de/$image
 
 ! neues-deutschland.de
