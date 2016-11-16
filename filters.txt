@@ -414,6 +414,9 @@ www.wolframalpha.com###premium-support-wrapper
 ! kuku-kube.com
 kuku-kube.com##footer
 
+! wetter.com
+www.wetter.com##.wsj
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
