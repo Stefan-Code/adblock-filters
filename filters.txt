@@ -402,6 +402,10 @@ bauexpertenforum.de##.anzeige
 ! elektrofachkraft.de
 elektrofachkraft.de###floor-wrapper
 
+! cnet.com
+www.cnet.com##.videoPromo
+www.cnet.com##.popOut
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
