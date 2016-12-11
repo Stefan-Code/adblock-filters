@@ -431,6 +431,9 @@ www.thomas-krenn.com##.sticky-header-cell
 ! strato.de
 www.strato.de##.agreecookie
 
+! bencane.com
+bencane.com##.scroll
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
