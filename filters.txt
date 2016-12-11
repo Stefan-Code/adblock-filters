@@ -380,6 +380,7 @@ www.vox.com###chorus-social-fixed
 ! stern.de
 www.stern.de###mobile-banner
 www.stern.de###mobile-banner-placeholder
+www.stern.de##.js-inactivity-layer
 
 ! dhl.de
 nolp.dhl.de##.nolp-smartbanner-android
