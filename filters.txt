@@ -428,6 +428,9 @@ www.immobilienscout24.de##.db_logo_map
 ! thomas-krenn.com
 www.thomas-krenn.com##.sticky-header-cell
 
+! strato.de
+www.strato.de##.agreecookie
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
