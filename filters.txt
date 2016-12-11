@@ -422,6 +422,9 @@ www.wetter.com##.wsj
 ! immobilienscout24.de
 www.immobilienscout24.de##.db_logo_map
 
+! thomas-krenn.com
+www.thomas-krenn.com##.sticky-header-cell
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
