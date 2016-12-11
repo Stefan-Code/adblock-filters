@@ -434,6 +434,13 @@ www.strato.de##.agreecookie
 ! bencane.com
 bencane.com##.scroll
 
+! electronichouse.com
+www.electronichouse.com##.mfp-content
+www.electronichouse.com##.mfp-container
+www.electronichouse.com##.mfp-wrap
+www.electronichouse.com##.mfp-bg
+www.electronichouse.com##.code-block
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
