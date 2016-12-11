@@ -419,6 +419,9 @@ kuku-kube.com##footer
 ! wetter.com
 www.wetter.com##.wsj
 
+! immobilienscout24.de
+www.immobilienscout24.de##.db_logo_map
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
