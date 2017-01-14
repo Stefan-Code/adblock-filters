@@ -60,6 +60,8 @@ www.amazon.de###ape_detail_btf_detail-mWeb_iframe
 www.amazon.de###ape_detail_btf_detail-mWeb_placement
 www.amazon.de###centerPlus
 www.amazon.de###ape_goldbox_slot-1_desktop_placement
+www.amazon.de###cbcc_banner
+www.amazon.de###sc-new-upsell
 
 ! physiksforums.com
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails > .errorMessage
