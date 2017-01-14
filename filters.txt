@@ -445,6 +445,9 @@ www.electronichouse.com##.mfp-wrap
 www.electronichouse.com##.mfp-bg
 www.electronichouse.com##.code-block
 
+! dict.cc
+dict.cc###msg
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
