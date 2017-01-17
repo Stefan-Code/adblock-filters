@@ -448,6 +448,13 @@ www.electronichouse.com##.code-block
 ! dict.cc
 dict.cc###msg
 
+! wiwiweb.de
+wiwiweb.de###stopper
+wiwiweb.de##.ita-button
+wiwiweb.de###head_price_container
+wiwiweb.de##.einzeln_oder_abo
+wiwiweb.de###stopper
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
