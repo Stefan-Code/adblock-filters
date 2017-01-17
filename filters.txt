@@ -146,6 +146,8 @@ www.finanzen.net###showpopup2
 ! gabler.de
 wirtschaftslexikon.gabler.de###overlay
 wirtschaftslexikon.gabler.de##.thelightbox
+||wirtschaftslexikon.gabler.de/export/sites/wilex/gwv/footer.jpg$image
+||wirtschaftslexikon.gabler.de/export/sites/wilex/gwv/sfp-banner.jpg$image
 
 ! tutsplus.com
 code.tutsplus.com##.global-nav__header-item--free-account-button
