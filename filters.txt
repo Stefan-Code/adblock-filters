@@ -468,6 +468,7 @@ wiwiweb.de###stopper
 ###cookieNote
 ##a[href^="whatsapp://send"]
 ##.privacyBadgerReplacementButton
+###cookie-acceptance
 
 !--------- Unbreak Section ---------
 !hs-heilbronn.de
