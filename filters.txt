@@ -460,6 +460,9 @@ wiwiweb.de###head_price_container
 wiwiweb.de##.einzeln_oder_abo
 wiwiweb.de###stopper
 
+! influxdata.com
+influxdata.com###support-ad
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
