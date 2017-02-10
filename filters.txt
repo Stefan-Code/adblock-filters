@@ -463,6 +463,9 @@ wiwiweb.de###stopper
 ! influxdata.com
 influxdata.com###support-ad
 
+! chip.de
+chip.de##.SocialShare
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
