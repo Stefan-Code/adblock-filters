@@ -466,6 +466,9 @@ influxdata.com###support-ad
 ! chip.de
 chip.de##.SocialShare
 
+! almbahn.at
+almbahn.at###CookisWarning
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
