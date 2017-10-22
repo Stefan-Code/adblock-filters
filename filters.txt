@@ -470,6 +470,12 @@ chip.de##.SocialShare
 ! almbahn.at
 almbahn.at###CookisWarning
 
+! jacob.de
+||direkt.jacob.de/pic/paypal/ratenzahlung*.jpg$image
+jacob.de###LayerSky
+jacob.de###partnerangebote
+jacob.de##.c1_reviewList
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
