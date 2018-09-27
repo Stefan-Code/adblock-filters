@@ -479,6 +479,10 @@ jacob.de##.c1_reviewList
 ! paypal.com
 www.paypal.com###gdprCookieBanner
 
+! oracle.com
+blogs.oracle.com##.truste_overlay
+
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
