@@ -258,6 +258,7 @@ www.spektrum.de###sidebar
 
 ! chefkoch.de
 ##img[alt="AdBlocker ist aktiv"]
+www.chefkoch.de##.clearfix.order-online
 ||www.chefkoch.de/img/default/anti-adblock-banners$image
 
 ! rechnungswesen-verstehen.de
