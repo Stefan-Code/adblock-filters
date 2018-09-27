@@ -476,6 +476,9 @@ jacob.de###LayerSky
 jacob.de###partnerangebote
 jacob.de##.c1_reviewList
 
+! paypal.com
+www.paypal.com###gdprCookieBanner
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
