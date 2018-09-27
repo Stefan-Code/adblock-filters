@@ -495,6 +495,9 @@ battlelog.battlefield.com###app-promotion
 ! billiger-telefonieren.de
 billiger-telefonieren.de###cms_ad_masterslot
 
+! lidl.de
+lidl.de##.newsletter-banner
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
