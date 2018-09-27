@@ -483,6 +483,10 @@ www.paypal.com###gdprCookieBanner
 blogs.oracle.com##.truste_overlay
 
 
+! trustarc.com
+||consent-pref.trustarc.com/$subdocument
+||consent.trustarc.com/get$image
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
