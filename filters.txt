@@ -489,6 +489,9 @@ blogs.oracle.com##.truste_overlay
 ||consent-pref.trustarc.com/$subdocument
 ||consent.trustarc.com/get$image
 
+! battlefield.com
+battlelog.battlefield.com###app-promotion
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
