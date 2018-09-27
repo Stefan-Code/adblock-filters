@@ -492,6 +492,9 @@ blogs.oracle.com##.truste_overlay
 ! battlefield.com
 battlelog.battlefield.com###app-promotion
 
+! billiger-telefonieren.de
+billiger-telefonieren.de###cms_ad_masterslot
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
