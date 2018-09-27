@@ -500,6 +500,9 @@ billiger-telefonieren.de###cms_ad_masterslot
 ! lidl.de
 lidl.de##.newsletter-banner
 
+! bleachbit.org
+bleachbit.org##.adlabel
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
