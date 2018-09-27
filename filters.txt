@@ -67,6 +67,8 @@ www.amazon.de###anonCarousel1
 www.amazon.de##.a-carousel-initialized
 www.amazon.de##.slot__ad
 www.amazon.de###navSwmHoliday
+www.amazon.de##.bit-aa-install-widget-wrapper
+www.amazon.de###pageContentContainer>div:has-text(So senden Sie Artikel an uns zurück)
 
 ! physiksforums.com
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails > .errorMessage
