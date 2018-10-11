@@ -517,6 +517,9 @@ hosttest.de##.sponsored-offers
 ! asterisk.org
 wiki.asterisk.org##.triblio-scripts
 
+! winsim.de
+winsim.de###optionen_main
+
 
 ! generic filters
 ||/advertisement.js
