@@ -420,6 +420,7 @@ linux.com###modalBackdrop
 
 ! bauexpertenforum.de
 bauexpertenforum.de##.anzeige
+bauexpertenforum.de##.Anzeige
 
 ! elektrofachkraft.de
 elektrofachkraft.de###floor-wrapper
