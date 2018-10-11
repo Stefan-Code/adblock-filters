@@ -36,6 +36,7 @@ www.spiegel.de###spPartnerBar
 ||images-eu.ssl-images-amazon.com/images/*/Promos/$image
 ||images-eu.ssl-images-amazon.com/images/G/03/DE_Deals/$image
 ||images-eu.ssl-images-amazon.com/images/G/*/mobile-marketing/*$image
+||images-na.ssl-images-amazon.com/images/G/03/credit/img18/cbcc/maple/*$image
 www.amazon.de###cbcc_banner_container
 www.amazon.de###nav-belt > .nav-right
 www.amazon.de###sponsored-products
@@ -69,6 +70,7 @@ www.amazon.de##.slot__ad
 www.amazon.de###navSwmHoliday
 www.amazon.de##.bit-aa-install-widget-wrapper
 www.amazon.de###pageContentContainer>div:has-text(So senden Sie Artikel an uns zurück)
+www.amazon.de##.maple-banner
 
 ! physiksforums.com
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails > .errorMessage
