@@ -520,6 +520,9 @@ wiki.asterisk.org##.triblio-scripts
 ! winsim.de
 winsim.de###optionen_main
 
+! elektrikforum.de
+elektrikforum.de##.Anzeige
+
 
 ! generic filters
 ||/advertisement.js
