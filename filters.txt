@@ -511,6 +511,9 @@ bleachbit.org##.adlabel
 lenovo.com###oo_invitation_overlay
 lenovo.com###oo_invitation_prompt
 
+! hosttest.de
+hosttest.de##.sponsored-offers
+
 ! generic filters
 ||/advertisement.js
 ##a[href^="http://clickbank.net/"]
