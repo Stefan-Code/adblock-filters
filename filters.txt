@@ -523,6 +523,9 @@ winsim.de###optionen_main
 ! elektrikforum.de
 elektrikforum.de##.Anzeige
 
+! drohnen-forum.de
+drohnen-forum.de##.wbbAdLocationAfter1stPost
+
 
 ! generic filters
 ||/advertisement.js
