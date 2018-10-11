@@ -197,7 +197,8 @@ www.voelkner.de###overlay_teaser
 ||ssl.re-in.de/nl/overlay/Overlay_ve.png
 
 ! alternate.de
-www.alternate.de###specialArea .skyTeaser
+alternate.de###specialArea .skyTeaser
+alternate.de###___ratingbadge_0
 
 ! inc.com
 www.inc.com###globalNav
@@ -502,6 +503,10 @@ lidl.de##.newsletter-banner
 
 ! bleachbit.org
 bleachbit.org##.adlabel
+
+! lenovo.com
+lenovo.com###oo_invitation_overlay
+lenovo.com###oo_invitation_prompt
 
 ! generic filters
 ||/advertisement.js
