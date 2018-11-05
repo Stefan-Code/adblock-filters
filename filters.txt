@@ -518,6 +518,7 @@ wiki.asterisk.org###join-community-promo
 
 ! winsim.de
 winsim.de###optionen_main
+winsim.de###teaser_gross_container
 
 ! elektrikforum.de
 elektrikforum.de##.Anzeige
