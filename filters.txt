@@ -529,6 +529,11 @@ drohnen-forum.de##.wbbAdLocationAfter1stPost
 ! skodacommunity.de
 skodacommunity.de##.Anzeige
 
+! pcbshopper.com
+pcbshopper.com##.priceListAd
+pcbshopper.com###secondary
+pcbshopper.com###PCBPrices_24ad
+
 
 ! generic filters
 ||/advertisement.js
