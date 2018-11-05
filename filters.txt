@@ -514,6 +514,7 @@ hosttest.de##.sponsored-offers
 
 ! asterisk.org
 wiki.asterisk.org##.triblio-scripts
+wiki.asterisk.org###join-community-promo
 
 ! winsim.de
 winsim.de###optionen_main
