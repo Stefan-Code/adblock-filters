@@ -37,38 +37,38 @@ www.spiegel.de###spPartnerBar
 ||images-eu.ssl-images-amazon.com/images/G/03/DE_Deals/$image
 ||images-eu.ssl-images-amazon.com/images/G/*/mobile-marketing/*$image
 ||images-na.ssl-images-amazon.com/images/G/03/credit/img18/cbcc/maple/*$image
-www.amazon.de###cbcc_banner_container
-www.amazon.de###nav-belt > .nav-right
-www.amazon.de###sponsored-products
-www.amazon.de###sponsoredProducts_feature_div
-www.amazon.de##.iss-banner-ad
-www.amazon.de##.prime-ad-banner-content
-www.amazon.de##img[alt="Gratis Amazon App jetzt herunterladen"]
-www.amazon.de###marketing
-www.amazon.de##.nav-prime-try
-www.amazon.de###tellAFriendBox_feature_div
-www.amazon.de##.campaign
-www.amazon.de##.a-touch-link[href="/gp/mobile/appstore-redirect/ref=ya_st_app_dl_link"]
-www.amazon.de## .scheduled-ad
-www.amazon.de###hero-quick-promo
-www.amazon.de###desktop-auto-sparkle-single
-www.amazon.de###hows-my-search
-www.amazon.de###nav-upnav
-www.amazon.de###detail-ilm_div
-www.amazon.de###ape_thankyou_atf_thankyou-mWeb_iframe
-www.amazon.de###smart-app-banner
-www.amazon.de###ape_detail_btf_detail-mWeb_iframe
-www.amazon.de###ape_detail_btf_detail-mWeb_placement
-www.amazon.de###centerPlus
-www.amazon.de###ape_goldbox_slot-1_desktop_placement
-www.amazon.de###cbcc_banner
-www.amazon.de###sc-new-upsell
-www.amazon.de##.a-carousel-initialized
-www.amazon.de##.slot__ad
-www.amazon.de###navSwmHoliday
-www.amazon.de##.bit-aa-install-widget-wrapper
-www.amazon.de###pageContentContainer>div:has-text(So senden Sie Artikel an uns zurück)
-www.amazon.de##.maple-banner
+amazon.de###cbcc_banner_container
+amazon.de###nav-belt > .nav-right
+amazon.de###sponsored-products
+amazon.de###sponsoredProducts_feature_div
+amazon.de##.iss-banner-ad
+amazon.de##.prime-ad-banner-content
+amazon.de##img[alt="Gratis Amazon App jetzt herunterladen"]
+amazon.de###marketing
+amazon.de##.nav-prime-try
+amazon.de###tellAFriendBox_feature_div
+amazon.de##.campaign
+amazon.de##.a-touch-link[href="/gp/mobile/appstore-redirect/ref=ya_st_app_dl_link"]
+amazon.de## .scheduled-ad
+amazon.de###hero-quick-promo
+amazon.de###desktop-auto-sparkle-single
+amazon.de###hows-my-search
+amazon.de###nav-upnav
+amazon.de###detail-ilm_div
+amazon.de###ape_thankyou_atf_thankyou-mWeb_iframe
+amazon.de###smart-app-banner
+amazon.de###ape_detail_btf_detail-mWeb_iframe
+amazon.de###ape_detail_btf_detail-mWeb_placement
+amazon.de###centerPlus
+amazon.de###ape_goldbox_slot-1_desktop_placement
+amazon.de###cbcc_banner
+amazon.de###sc-new-upsell
+amazon.de##.a-carousel-initialized
+amazon.de##.slot__ad
+amazon.de###navSwmHoliday
+amazon.de##.bit-aa-install-widget-wrapper
+amazon.de###pageContentContainer>div:has-text(So senden Sie Artikel an uns zurück)
+amazon.de##.maple-banner
 
 ! physiksforums.com
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails > .errorMessage
