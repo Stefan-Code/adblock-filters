@@ -526,6 +526,9 @@ elektrikforum.de##.Anzeige
 ! drohnen-forum.de
 drohnen-forum.de##.wbbAdLocationAfter1stPost
 
+! skodacommunity.de
+skodacommunity.de##.Anzeige
+
 
 ! generic filters
 ||/advertisement.js
