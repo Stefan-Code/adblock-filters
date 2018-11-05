@@ -534,6 +534,9 @@ pcbshopper.com##.priceListAd
 pcbshopper.com###secondary
 pcbshopper.com###PCBPrices_24ad
 
+! geizhals.de
+geizhals.de###gh_blah
+
 
 ! generic filters
 ||/advertisement.js
