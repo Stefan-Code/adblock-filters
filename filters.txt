@@ -63,12 +63,14 @@ amazon.de###centerPlus
 amazon.de###ape_goldbox_slot-1_desktop_placement
 amazon.de###cbcc_banner
 amazon.de###sc-new-upsell
-amazon.de##.a-carousel-initialized
 amazon.de##.slot__ad
 amazon.de###navSwmHoliday
 amazon.de##.bit-aa-install-widget-wrapper
 ! amazon.de###pageContentContainer>div:has-text(So senden Sie Artikel an uns zurück)
 amazon.de##.maple-banner
+amazon.de##.a-popover-wrapper
+amazon.de###a-popover-lgtbox
+amazon.de##body:style(overflow: auto !important; position: initial !important;)
 
 ! physiksforums.com
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails > .errorMessage
