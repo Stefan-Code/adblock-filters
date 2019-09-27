@@ -65,9 +65,17 @@ amazon.de###sc-new-upsell
 amazon.de##.slot__ad
 amazon.de###navSwmHoliday
 amazon.de##.bit-aa-install-widget-wrapper
-! amazon.de###pageContentContainer>div:has-text(So senden Sie Artikel an uns zurück)
 amazon.de##.maple-banner
 amazon.de##body:style(overflow: auto !important; position: initial !important;)
+amazon.de###ape_OfferListing_ilm_All_iframe
+amazon.de###ape_OfferListing_ilm_All_placement_Feedback
+amazon.de##.a-popover-wrapper
+amazon.de###a-popover-lgtbox
+amazon.de##body:style(overflow: auto !important; position: initial !important;)
+amazon.de###detailILM_feature_div
+amazon.de##.printable-section > div > div.a-section:has-text(/So senden Sie Artikel an uns zurück/)
+amazon.de###cs-app-prompt
+amazon.de###percolate-ui-ilm_feature_div
 
 ! physiksforums.com
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails > .errorMessage
