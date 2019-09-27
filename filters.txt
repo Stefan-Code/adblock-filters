@@ -38,7 +38,6 @@ www.spiegel.de###spPartnerBar
 ||images-eu.ssl-images-amazon.com/images/G/*/mobile-marketing/*$image
 ||images-na.ssl-images-amazon.com/images/G/03/credit/img18/cbcc/maple/*$image
 amazon.de###cbcc_banner_container
-amazon.de###nav-belt > .nav-right
 amazon.de###sponsored-products
 amazon.de###sponsoredProducts_feature_div
 amazon.de##.iss-banner-ad
