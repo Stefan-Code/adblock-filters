@@ -2,6 +2,30 @@
 ! Homepage: https://github.com/Stefan-Code/adblock-filters
 ! Expires: 12 hours
 
+! generic filters
+||/advertisement.js
+##a[href^="http://clickbank.net/"]
+##.adv
+##.smartbanner
+###smartbanner
+##.app-banner
+###app-banner
+###cookieNote
+##a[href^="whatsapp://send"]
+##.privacyBadgerReplacementButton
+###cookie-acceptance
+##.cc-cookies
+
+!--------- Unbreak Section ---------
+!hs-heilbronn.de
+@@||splan.hs-heilbronn.de/splan/mobile/js/fingerprint.js$script,domain=splan.hs-heilbronn.de
+
+!----- Be fair, allow Piwik tracking ------
+@@/piwik.php
+@@/piwik.js
+
+! ------------------------------------------
+
 ! facebook.com
 www.facebook.com###pagelet_canvas_nav_content
 www.facebook.com###pagelet_ego_pane .ego_section
@@ -10,11 +34,15 @@ www.facebook.com###pageInviteEscapeHatch
 
 ! Google
 ||plus.google.com/u/0/_/streamwidgets/canvas
+||google.com/shopping/customerreviews/badge$subdocument
 docs.google.com##.docs-ml-promotion-off-screen
+||smartlock.google.com/iframe/request$subdocument
+||apis.google.com/js/plusone.js$third-party
 
 ! kindergeld.org
 /www.kindergeld.org\/image\/[0-9]{10}[a-z]\.[0-9]\/[A-Za-z0-9]+\.gif/$domain=www.kindergeld.org
 www.kindergeld.org###wpzoom-text-widget-4
+||www.kindergeld.org/wp-content/uploads/custom.png$image
 
 ! Spiegel.de
 ||tarife.spiegel.de
@@ -37,6 +65,11 @@ www.spiegel.de###spPartnerBar
 ||images-eu.ssl-images-amazon.com/images/G/03/DE_Deals/$image
 ||images-eu.ssl-images-amazon.com/images/G/*/mobile-marketing/*$image
 ||images-na.ssl-images-amazon.com/images/G/03/credit/img18/cbcc/maple/*$image
+||images-eu.ssl-images-amazon.com/*/campaigns/*$image
+||images-eu.ssl-images-amazon.com/images/*/Merch/*$image
+||images-eu.ssl-images-amazon.com/images/*Promo*.jpg$image
+||images-eu.ssl-images-amazon.com/*/AMAZON-FASHION/*/MEGAMENU-FREE_RETURNS/*$image
+
 amazon.de###cbcc_banner_container
 amazon.de###sponsored-products
 amazon.de###sponsoredProducts_feature_div
@@ -77,6 +110,7 @@ amazon.de##.printable-section > div > div.a-section:has-text(/So senden Sie Arti
 amazon.de###cs-app-prompt
 amazon.de###percolate-ui-ilm_feature_div
 amazon.de###desktop-banner
+
 ! physiksforums.com
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails > .errorMessage
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails
@@ -103,8 +137,6 @@ www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetail
 ||rce.veeseo.com/widgets/zeit/widget.js$domain=www.zeit.de
 www.zeit.de###main > .nextread-advertisement
 
-! google plus social
-||apis.google.com/js/plusone.js$third-party
 
 ! linuxcareer.com
 ||how-to.linuxcareer.com/images/banners/linuxcareer-internal-ad.jpg$image
@@ -183,6 +215,7 @@ ebay.de###billboardFragment > .connected-placements
 m.ebay.de###mw-app-bnr
 ebay.de###fixedDailyDeals
 ebay.de###gh-doodleS
+ebay.de##.desktop.coupon.banner
 
 ! idealo.de
 idealo.de##.cookieBanner
@@ -194,14 +227,18 @@ idealo.de##.app-banner
 www.1-2-do.com###cookieRequestLayer
 
 ! voelkner.de
-www.voelkner.de##.search_teaser_asn
-www.voelkner.de###mainC .partner_icons
-www.voelkner.de###mainC .icon_spacenet
-www.voelkner.de###adv-bar
-www.voelkner.de###gutscheinconnection-container
-www.voelkner.de###sovendusAbo-container
-www.voelkner.de###overlay_teaser
+voelkner.de##.search_teaser_asn
+voelkner.de###mainC .partner_icons
+voelkner.de###mainC .icon_spacenet
+voelkner.de###adv-bar
+voelkner.de###gutscheinconnection-container
+voelkner.de###sovendusAbo-container
+voelkner.de###overlay_teaser
+voelkner.de##.skiptranslate
 ||ssl.re-in.de/nl/overlay/Overlay_ve.png
+||ssl.re-in.de/voelkner/images/teaser/*$image
+voelkner.de###___ratingbadge_0
+||re-in.de/*cc_animated_banner*$image
 
 ! alternate.de
 alternate.de###specialArea .skyTeaser
@@ -212,9 +249,6 @@ www.inc.com###globalNav
 
 ! medium.com
 medium.com##.promo
-
-! voelkner.de
-voelkner.de##.skiptranslate
 
 ! wired.com
 wired.com###mobile-share
@@ -227,7 +261,9 @@ wired.com###global-header
 wired.com###around-the-web
 
 ! aliexpress.com
-m.aliexpress.com###ms-guidance-wrap
+aliexpress.com###ms-guidance-wrap
+aliexpress.com###j-aliexpress-notice
+
 
 ! straitstimes.com
 ||www.straitstimes.com/sites/default/files/subscription*
@@ -473,6 +509,8 @@ wiwiweb.de##.ita-button
 wiwiweb.de###head_price_container
 wiwiweb.de##.einzeln_oder_abo
 wiwiweb.de###stopper
+wiwiweb.de###exit_intent_popup
+wiwiweb.de##.bg-color-light
 
 ! influxdata.com
 influxdata.com###support-ad
@@ -548,24 +586,58 @@ geizhals.de###gh_blah
 ||www.xda-cdn.com/*/leaseweb_*.png$image
 ||forum.xda-developers.com/honor-hub/*.jpg$image
 
-! generic filters
-||/advertisement.js
-##a[href^="http://clickbank.net/"]
-##.adv
-##.smartbanner
-###smartbanner
-##.app-banner
-###app-banner
-###cookieNote
-##a[href^="whatsapp://send"]
-##.privacyBadgerReplacementButton
-###cookie-acceptance
+! globetrotter.de
+globetrotter.de##.slideup-nl
 
-!--------- Unbreak Section ---------
-!hs-heilbronn.de
-@@||splan.hs-heilbronn.de/splan/mobile/js/fingerprint.js$script,domain=splan.hs-heilbronn.de
+! fahrrad-xxl.de
+fahrrad-xxl.de##.fxxl-newsletter-popup
 
-!----- Be fair, allow Piwik tracking ------
-@@/piwik.php
-@@/piwik.js
+! gemu-group.com
+gemu-group.com###notification
+gemu-group.com###userlike-button-text
+gemu-group.com###userlike
+
+! hungred.com
+hungred.com##.banner
+
+! faberkabel.de
+shop.faberkabel.de###ModalUmCookiehandling
+shop.faberkabel.de##.modal-backdrop
+
+! openbuilds.com
+openbuilds.com###uix_welcomeBlock
+
+! bosch.de
+bosch.de##.BoschPrivacySettingsV2__overlay
+
+! hosteurope.de
+kis.hosteurope.de##.promotions_container
+
+! ultimaker.com
+community.ultimaker.com##.__b-popup1__.b-modal
+
+! bergzeit.de
+bergzeit.de##.fixed__voucher__teaser
+
+! sandwichpdf.com
+||www.sandwichpdf.com/*banner*.png$image
+
+! radforum.de
+radforum.de##.postcontainer:has(.ad_marker)
+
+! openhomeautomation.net
+openhomeautomation.net###exit-popup
+
+! dasheimwerkerforum.de
+dasheimwerkerforum.de##.Anzeige
+
+! lib1.org
+lib1.org###message
+
+! replica-watch.info
+forum.replica-watch.info###unblurred
+
+! befestigungsfuchs.de
+befestigungsfuchs.de###disclaimer
+befestigungsfuchs.de###disclaimer_bg
 
