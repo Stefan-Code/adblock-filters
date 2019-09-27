@@ -668,4 +668,22 @@ apc.com##.js-cookie-notification
 ! getadblock.com
 getadblock.com##.branch-journeys-top
 
+! bikecitizens.net
+bikecitizens.net##.cookie-notice
+
+! prime-mountainbiking.de
+prime-mountainbiking.de##.bst-wrapper
+
+! derstandard.at
+mobil.derstandard.at###hint-push-service
+
+! zdf.de
+zdf.de##.smartbanner-container
+zdf.de##.smartbanner-android
+
+! highfoodality.de
+highfoodality.de##.cookie-notice-container
+
+! utopia.de
+utopia.de##.ut-social-share
 
