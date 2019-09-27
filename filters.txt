@@ -15,6 +15,7 @@
 ##.privacyBadgerReplacementButton
 ###cookie-acceptance
 ##.cc-cookies
+##.cookiepolicy-content
 
 !--------- Unbreak Section ---------
 !hs-heilbronn.de
@@ -69,6 +70,7 @@ www.spiegel.de###spPartnerBar
 ||images-eu.ssl-images-amazon.com/images/*/Merch/*$image
 ||images-eu.ssl-images-amazon.com/images/*Promo*.jpg$image
 ||images-eu.ssl-images-amazon.com/*/AMAZON-FASHION/*/MEGAMENU-FREE_RETURNS/*$image
+||images-na.ssl-images-amazon.com/images/G/03/mobile-marketing/*$image
 
 amazon.de###cbcc_banner_container
 amazon.de###sponsored-products
@@ -110,6 +112,7 @@ amazon.de##.printable-section > div > div.a-section:has-text(/So senden Sie Arti
 amazon.de###cs-app-prompt
 amazon.de###percolate-ui-ilm_feature_div
 amazon.de###desktop-banner
+amazon.de###mobile-ad-container
 
 ! physiksforums.com
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails > .errorMessage
@@ -249,6 +252,7 @@ www.inc.com###globalNav
 
 ! medium.com
 medium.com##.promo
+gen.medium.com##.js-meterBanner
 
 ! wired.com
 wired.com###mobile-share
@@ -326,6 +330,7 @@ mobile.twitter.com##.OpenInAppBar
 
 ! nytimes.com
 mobile.nytimes.com###growl
+nytimes.com###standalone-footer
 
 ! sueddeutsche.de
 ##.article-sharing-bottom
@@ -640,4 +645,27 @@ forum.replica-watch.info###unblurred
 ! befestigungsfuchs.de
 befestigungsfuchs.de###disclaimer
 befestigungsfuchs.de###disclaimer_bg
+
+! bloomberg.com
+bloomberg.com###paywall-banner
+
+! mobile.de
+m.mobile.de##.smartbanner-container
+
+! mirror.co.uk
+mirror.co.uk##.skinny-signup
+mirror.co.uk##.sharebar
+
+! explorilia.com
+explorilia.com##.all-services
+
+! misterspex.de
+m.misterspex.de###CookieAdvice
+
+! apc.com
+apc.com##.js-cookie-notification
+
+! getadblock.com
+getadblock.com##.branch-journeys-top
+
 
