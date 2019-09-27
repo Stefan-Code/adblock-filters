@@ -76,7 +76,7 @@ amazon.de###detailILM_feature_div
 amazon.de##.printable-section > div > div.a-section:has-text(/So senden Sie Artikel an uns zurück/)
 amazon.de###cs-app-prompt
 amazon.de###percolate-ui-ilm_feature_div
-
+amazon.de###desktop-banner
 ! physiksforums.com
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails > .errorMessage
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails
