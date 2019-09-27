@@ -544,6 +544,9 @@ pcbshopper.com###PCBPrices_24ad
 ! geizhals.de
 geizhals.de###gh_blah
 
+! xda-developers.com
+||www.xda-cdn.com/*/leaseweb_*.png$image
+||forum.xda-developers.com/honor-hub/*.jpg$image
 
 ! generic filters
 ||/advertisement.js
