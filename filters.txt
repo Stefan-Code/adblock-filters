@@ -230,6 +230,9 @@ idealo.de##.app-banner
 www.1-2-do.com###cookieRequestLayer
 
 ! voelkner.de
+||ssl.re-in.de/nl/overlay/Overlay_ve.png
+||ssl.re-in.de/voelkner/images/teaser/*$image
+||re-in.de/*cc_animated_banner*$image
 voelkner.de##.search_teaser_asn
 voelkner.de###mainC .partner_icons
 voelkner.de###mainC .icon_spacenet
@@ -238,10 +241,10 @@ voelkner.de###gutscheinconnection-container
 voelkner.de###sovendusAbo-container
 voelkner.de###overlay_teaser
 voelkner.de##.skiptranslate
-||ssl.re-in.de/nl/overlay/Overlay_ve.png
-||ssl.re-in.de/voelkner/images/teaser/*$image
+voelkner.de###warranty_extension_reveal
+voelkner.de##div.reveal-overlay
+voelkner.de##body:style(overflow: auto !important; position: initial !important;)
 voelkner.de###___ratingbadge_0
-||re-in.de/*cc_animated_banner*$image
 
 ! alternate.de
 alternate.de###specialArea .skyTeaser
