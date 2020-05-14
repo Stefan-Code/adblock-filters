@@ -220,6 +220,7 @@ m.ebay.de###mw-app-bnr
 ebay.de###fixedDailyDeals
 ebay.de###gh-doodleS
 ebay.de##.desktop.coupon.banner
+ebay.de###gf-norton
 
 ! idealo.de
 idealo.de##.cookieBanner
