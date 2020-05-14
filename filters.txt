@@ -113,6 +113,7 @@ amazon.de###cs-app-prompt
 amazon.de###percolate-ui-ilm_feature_div
 amazon.de###desktop-banner
 amazon.de###mobile-ad-container
+amazon.de###huc-rest-upsell-row-1
 
 ! physiksforums.com
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails > .errorMessage
