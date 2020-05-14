@@ -729,3 +729,7 @@ theverge.com###privacy-consent
 
 ! loadbee.com
 ||loadbee.com/js/*$script
+
+! custom-build-robots.com
+custom-build-robots.com##.asa2_fbh_wrapper
+custom-build-robots.com##[href^="https://www.amazon.de"]
