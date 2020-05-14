@@ -719,3 +719,6 @@ youtube.com###clarify-box
 
 ! olb.de
 hbciweb.olb.de#@##fbContainer
+
+! theverge.com
+theverge.com###privacy-consent
