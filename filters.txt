@@ -250,7 +250,7 @@ voelkner.de###sovendusAbo-container
 voelkner.de###overlay_teaser
 voelkner.de##.skiptranslate
 voelkner.de###warranty_extension_reveal
-voelkner.de##div.reveal-overlay
+!voelkner.de##div.reveal-overlay
 voelkner.de##body:style(overflow: auto !important; position: initial !important;)
 voelkner.de###___ratingbadge_0
 voelkner.de###adv_bar
