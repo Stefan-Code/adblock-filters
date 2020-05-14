@@ -233,6 +233,11 @@ www.1-2-do.com###cookieRequestLayer
 ||ssl.re-in.de/nl/overlay/Overlay_ve.png
 ||ssl.re-in.de/voelkner/images/teaser/*$image
 ||re-in.de/*cc_animated_banner*$image
+@@||www.voelkner.de/min/*$script
+||voelkner.de/ajax/push_newrelic.html
+||voelkner.de/ajax/tracking.html
+||voelkner.de/search/tracking.html
+||ssl.re-in.de/corona/*$image
 voelkner.de##.search_teaser_asn
 voelkner.de###mainC .partner_icons
 voelkner.de###mainC .icon_spacenet
@@ -245,6 +250,9 @@ voelkner.de###warranty_extension_reveal
 voelkner.de##div.reveal-overlay
 voelkner.de##body:style(overflow: auto !important; position: initial !important;)
 voelkner.de###___ratingbadge_0
+voelkner.de###adv_bar
+voelkner.de##.pdp-hotness
+
 
 ! alternate.de
 alternate.de###specialArea .skyTeaser
