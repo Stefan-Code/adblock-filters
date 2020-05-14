@@ -724,3 +724,6 @@ hbciweb.olb.de#@##fbContainer
 
 ! theverge.com
 theverge.com###privacy-consent
+
+! loadbee.com
+||loadbee.com/js/*$script
