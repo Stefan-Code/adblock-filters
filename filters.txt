@@ -698,3 +698,16 @@ highfoodality.de##.cookie-notice-container
 ! utopia.de
 utopia.de##.ut-social-share
 
+! mathebibel.de
+||mathebibel.de/files/partner/$image
+||mathebibel.de/files/partner/easy-tutor/desktop.png$image
+||mathebibel.de/files/*jpg$image
+||mathebibel.de/files/partner/*$image
+mathebibel.de##header
+mathebibel.de###werbehinweis
+mathebibel.de###provenexpert
+mathebibel.de###about
+mathebibel.de###about-fehler
+mathebibel.de###footer-info
+mathebibel.de###nav-footer-wrap
+mathebibel.de###banner-desktop
