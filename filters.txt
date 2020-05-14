@@ -711,3 +711,6 @@ mathebibel.de###about-fehler
 mathebibel.de###footer-info
 mathebibel.de###nav-footer-wrap
 mathebibel.de###banner-desktop
+
+! youtube.com
+youtube.com###clarify-box
