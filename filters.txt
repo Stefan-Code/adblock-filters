@@ -587,6 +587,8 @@ billiger-telefonieren.de###cms_ad_masterslot
 
 ! lidl.de
 lidl.de##.newsletter-banner
+lidl.de##.lidl-insider-floor-ad__desktop-content
+lidl.de##.btn--feedback
 
 ! bleachbit.org
 bleachbit.org##.adlabel
