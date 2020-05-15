@@ -259,6 +259,9 @@ voelkner.de###adv_bar
 voelkner.de##.pdp-hotness
 voelkner.de##[href="https://www.voelkner.de/vorteilswelt.html"]
 voelkner.de##.dailydeal
+voelkner.de###deals_block
+voelkner.de##.head-promotion-link
+voelkner.de##[href="https://www.voelkner.de/newsletters/newsletters.html"]
 
 ! alternate.de
 alternate.de###specialArea .skyTeaser
