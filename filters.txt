@@ -109,8 +109,6 @@ amazon.de##.maple-banner
 amazon.de##body:style(overflow: auto !important; position: initial !important;)
 amazon.de###ape_OfferListing_ilm_All_iframe
 amazon.de###ape_OfferListing_ilm_All_placement_Feedback
-amazon.de##.a-popover-wrapper
-amazon.de###a-popover-lgtbox
 amazon.de##body:style(overflow: auto !important; position: initial !important;)
 amazon.de###detailILM_feature_div
 amazon.de##.printable-section > div > div.a-section:has-text(/So senden Sie Artikel an uns zurück/)
