@@ -233,11 +233,12 @@ sat-dreambox.com###ad_global_below_navbar
 
 ! ebay.de
 ebay.de###billboardFragment > .connected-placements
-m.ebay.de###mw-app-bnr
+ebay.de###mw-app-bnr
 ebay.de###fixedDailyDeals
 ebay.de###gh-doodleS
 ebay.de##.desktop.coupon.banner
 ebay.de###gf-norton
+ebay.de##.carousel__autoplay
 
 ! idealo.de
 idealo.de##.cookieBanner
