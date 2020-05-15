@@ -757,3 +757,7 @@ custom-build-robots.com##[href^="https://www.amazon.de"]
 ! reddit.com
 reddit.com##.listingsignupbar
 reddit.com##.commentsignupbar
+
+! t-online.de
+||images-eu.ssl-images-amazon.com/images/$image,domain=t-online.de
+t-online.de##.toiafl-container
