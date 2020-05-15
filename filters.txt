@@ -76,6 +76,7 @@ www.spiegel.de###spPartnerBar
 ||images-eu.ssl-images-amazon.com/*/AmazonPay/$image
 ||images-eu.ssl-images-amazon.com/images/*/DE-hq/*$image
 ||images-eu.ssl-images-amazon.com/images/G/03/digital/video/deals/*$image
+||images-eu.ssl-images-amazon.com/images/*/marketing/*$image
 amazon.de###cbcc_banner_container
 amazon.de###sponsored-products
 amazon.de###sponsoredProducts_feature_div
