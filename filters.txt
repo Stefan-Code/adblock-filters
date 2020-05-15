@@ -778,3 +778,6 @@ rutracker.org##[src="https://rutrk.org/iframe/kwork-list-1.html"]
 rutracker.org##[href^="https://jul16adstake.top/"]
 rutracker.org##[href^="https://robinbob.in/"]
 
+! future-x.de
+future-x.de##.newsFlyout
+
