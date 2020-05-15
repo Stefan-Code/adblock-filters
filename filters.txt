@@ -681,6 +681,7 @@ m.misterspex.de###CookieAdvice
 
 ! apc.com
 apc.com##.js-cookie-notification
+apc.com##.sdl-message-cookie-notification
 
 ! getadblock.com
 getadblock.com##.branch-journeys-top
