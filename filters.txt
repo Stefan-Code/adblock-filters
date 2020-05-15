@@ -72,6 +72,10 @@ www.spiegel.de###spPartnerBar
 ||images-eu.ssl-images-amazon.com/*/AMAZON-FASHION/*/MEGAMENU-FREE_RETURNS/*$image
 ||images-na.ssl-images-amazon.com/images/G/03/mobile-marketing/*$image
 ||images-eu.ssl-images-amazon.com/images/*/region_DE/*$image
+||images-eu.ssl-images-amazon.com/images/G/03/DE-hq/*/X_Site/$image
+||images-eu.ssl-images-amazon.com/*/AmazonPay/$image
+||images-eu.ssl-images-amazon.com/images/*/DE-hq/*$image
+||images-eu.ssl-images-amazon.com/images/G/03/digital/video/deals/*$image
 amazon.de###cbcc_banner_container
 amazon.de###sponsored-products
 amazon.de###sponsoredProducts_feature_div
@@ -114,6 +118,16 @@ amazon.de###percolate-ui-ilm_feature_div
 amazon.de###desktop-banner
 amazon.de###mobile-ad-container
 amazon.de###huc-rest-upsell-row-1
+amazon.de##.s-shopping-adviser
+amazon.de###sims-consolidated-3_feature_div
+amazon.de###universal-detail-ilm
+amazon.de###bia_content
+amazon.de###cerberus
+amazon.de###cerberusVoteSection
+amazon.de###rhf
+amazon.de###percolate-ui-ilm_div
+amazon.de#@##percolate-ui-ilm_div
+amazon.de#@##percolate-ui-ilm_feature_div
 
 ! physiksforums.com
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails > .errorMessage
