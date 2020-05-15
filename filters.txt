@@ -179,8 +179,10 @@ www.ingenieurkurse.de###head_price_container
 ||www.golem.de/microsite/abo/minibanner*.html
 
 ! focus.de
-www.focus.de##a[href="http://tagesgeld.focus.de/guenstige-tagesgeldkonten/vergleich"]
-www.focus.de###servicev2 > .container_12 > .key-visual
+focus.de##a[href="http://tagesgeld.focus.de/guenstige-tagesgeldkonten/vergleich"]
+focus.de###servicev2 > .container_12 > .key-visual
+focus.de##.ps-trackingposition_OrangerButton
+focus.de###_bcwidget_0
 
 ! metro.co.uk
 metro.co.uk###we-need-monies > .house-promo
