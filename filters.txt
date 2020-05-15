@@ -751,3 +751,7 @@ theverge.com###privacy-consent
 ! custom-build-robots.com
 custom-build-robots.com##.asa2_fbh_wrapper
 custom-build-robots.com##[href^="https://www.amazon.de"]
+
+! reddit.com
+reddit.com##.listingsignupbar
+reddit.com##.commentsignupbar
