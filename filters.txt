@@ -761,3 +761,6 @@ reddit.com##.commentsignupbar
 ! t-online.de
 ||images-eu.ssl-images-amazon.com/images/$image,domain=t-online.de
 t-online.de##.toiafl-container
+
+! top-fm.de
+top-fm.de##[href="http://www.radioplayer.de/apps"]
