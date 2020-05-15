@@ -764,3 +764,13 @@ t-online.de##.toiafl-container
 
 ! top-fm.de
 top-fm.de##[href="http://www.radioplayer.de/apps"]
+
+! rutracker.org
+||rutrk.org/240x120/*$image
+||rutrk.org/iframe/*$subdocument
+||rutrk.org/800x160/*$image
+rutracker.org##[href^="https://gamenpartners.com/"]
+rutracker.org##[src="https://rutrk.org/iframe/kwork-list-1.html"]
+rutracker.org##[href^="https://jul16adstake.top/"]
+rutracker.org##[href^="https://robinbob.in/"]
+
