@@ -17,10 +17,6 @@
 ##.cc-cookies
 ##.cookiepolicy-content
 
-!--------- Unbreak Section ---------
-!hs-heilbronn.de
-@@||splan.hs-heilbronn.de/splan/mobile/js/fingerprint.js$script,domain=splan.hs-heilbronn.de
-
 !----- Be fair, allow Piwik tracking ------
 @@/piwik.php
 @@/piwik.js
