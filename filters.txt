@@ -123,7 +123,6 @@ amazon.de###rhf
 amazon.de###percolate-ui-ilm_div
 amazon.de#@##percolate-ui-ilm_div
 amazon.de#@##percolate-ui-ilm_feature_div
-! 2020-09-06 https://smile.amazon.de
 smile.amazon.de##.a-alert-info
 smile.amazon.de##span:has-text(/Schneiden Sie dieses Etikett aus und kleben Sie es außen auf Ihre Rücksendung./)
 smile.amazon.de##span:has-text(/Schneiden Sie diesen Teil aus und legen Sie ihn Ihrer Sendung bei./)
