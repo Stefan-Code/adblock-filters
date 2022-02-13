@@ -278,6 +278,7 @@ voelkner.de##.dailydeal
 voelkner.de###deals_block
 voelkner.de##.head-promotion-link
 voelkner.de##[href="https://www.voelkner.de/newsletters/newsletters.html"]
+voelkner.de##.campaign
 
 ! alternate.de
 alternate.de###specialArea .skyTeaser
