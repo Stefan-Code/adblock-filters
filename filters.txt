@@ -782,3 +782,13 @@ future-x.de##.newsFlyout
 ! mozilla.org
 mozilla.org##.c-navigation-vpn-cta-container
 
+! komoot.de
+komoot.de###signup_banner_portal
+
+! oneplus.com
+forums.oneplus.com###header_raffle
+
+! pypi.org
+pypi.org##.notification-bar--fundraiser
+
+
