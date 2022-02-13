@@ -779,3 +779,6 @@ rutracker.org##[href^="https://robinbob.in/"]
 ! future-x.de
 future-x.de##.newsFlyout
 
+! mozilla.org
+mozilla.org##.c-navigation-vpn-cta-container
+
