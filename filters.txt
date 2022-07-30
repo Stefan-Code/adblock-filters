@@ -108,6 +108,7 @@ amazon.de###ape_OfferListing_ilm_All_placement_Feedback
 amazon.de##body:style(overflow: auto !important; position: initial !important;)
 amazon.de###detailILM_feature_div
 amazon.de##.printable-section > div > div.a-section:has-text(/So senden Sie Artikel an uns zurück/)
+amazon.de##.printable-section > div > div.a-section:has-text(/So sendest du Artikel an uns zurück/)
 amazon.de###cs-app-prompt
 amazon.de###percolate-ui-ilm_feature_div
 amazon.de###desktop-banner
@@ -123,10 +124,11 @@ amazon.de###rhf
 amazon.de###percolate-ui-ilm_div
 amazon.de#@##percolate-ui-ilm_div
 amazon.de#@##percolate-ui-ilm_feature_div
-smile.amazon.de##.a-alert-info
-smile.amazon.de##span:has-text(/Schneiden Sie dieses Etikett aus und kleben Sie es außen auf Ihre Rücksendung./)
-smile.amazon.de##span:has-text(/Schneiden Sie diesen Teil aus und legen Sie ihn Ihrer Sendung bei./)
-smile.amazon.de##.a-text-left:has-text(/Rücksendungsübersicht/)
+amazon.de##.a-alert-info
+amazon.de##span:has-text(/Schneiden Sie dieses Etikett aus und kleben Sie es außen auf Ihre Rücksendung./)
+amazon.de##span:has-text(/Schneiden Sie diesen Teil aus und legen Sie ihn Ihrer Sendung bei./)
+amazon.de##.a-text-left:has-text(/Rücksendungsübersicht/)
+amazon.de###nav-swmslot
 
 ! physiksforums.com
 www.physicsforums.com##.adblock_floating_message.adblock_detector > .errorDetails > .errorMessage
