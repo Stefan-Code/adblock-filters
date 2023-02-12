@@ -285,6 +285,8 @@ voelkner.de##.campaign
 ! alternate.de
 alternate.de###specialArea .skyTeaser
 alternate.de###___ratingbadge_0
+alternate.de##.right.skyscraper
+||www.alternate.de/*/teaser/*$image
 
 ! inc.com
 www.inc.com###globalNav
