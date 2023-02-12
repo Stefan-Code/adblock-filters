@@ -796,4 +796,7 @@ forums.oneplus.com###header_raffle
 ! pypi.org
 pypi.org##.notification-bar--fundraiser
 
+! duden.de
+duden.de###aab-overlay
+duden.de##body:style(overflow: auto !important; position: initial !important;)
 
