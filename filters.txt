@@ -747,6 +747,7 @@ mathebibel.de###banner-desktop
 
 ! youtube.com
 youtube.com###clarify-box
+youtube.com##.ytd-info-panel-content-renderer
 
 ! olb.de
 hbciweb.olb.de#@##fbContainer
