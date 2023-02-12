@@ -800,3 +800,6 @@ pypi.org##.notification-bar--fundraiser
 duden.de###aab-overlay
 duden.de##body:style(overflow: auto !important; position: initial !important;)
 
+! w3schools.com
+w3schools.com###lowerfeatureshowcase
+w3schools.com###upperfeatureshowcase
